@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "cryostone",
+  "ingredient": {
+    "item": "cryostone_caverns:unrefined_cryostone"
+  },
+  "result": "cryostone_caverns:cryostone"
+}

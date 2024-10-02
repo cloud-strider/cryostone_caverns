@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cryostone_caverns:cryostone"
+    }
+  },
+  "result": {
+    "item": "cryostone_caverns:cryostone_block",
+    "count": 1
+  }
+}
