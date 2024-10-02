@@ -21,6 +21,10 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.CRYOSTONE.get());
                         pOutput.accept(ModItems.UNREFINED_CRYOSTONE.get());
                         pOutput.accept(ModBlocks.CRYOSTONE_BLOCK.get());
+                        pOutput.accept(ModBlocks.CRYOSTONE_ORE.get());
+                        pOutput.accept(ModBlocks.DEEPSLATE_CRYOSTONE_ORE.get());
+                        pOutput.accept(ModBlocks.END_CRYOSTONE_ORE.get());
+                        pOutput.accept(ModItems.CRYO_STAFF.get());
                     })
                     .build());
 

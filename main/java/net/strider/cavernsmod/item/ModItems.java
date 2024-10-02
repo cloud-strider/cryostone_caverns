@@ -6,6 +6,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.strider.cavernsmod.CavernsMod;
 import net.minecraft.world.item.Item;
+import net.strider.cavernsmod.item.custom.CryoStaffItem;
 
 public class ModItems {
     public  static  final DeferredRegister<Item> ITEMS =
@@ -15,6 +16,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> UNREFINED_CRYOSTONE = ITEMS.register("unrefined_cryostone",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRYO_STAFF = ITEMS.register("cryo_staff",
+            () -> new CryoStaffItem(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

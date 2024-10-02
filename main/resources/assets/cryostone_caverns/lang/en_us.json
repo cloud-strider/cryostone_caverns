@@ -4,5 +4,11 @@
 
   "block.cryostone_caverns.cryostone_block": "Cryostone Block",
 
+  "block.cryostone_caverns.cryostone_ore": "Cryostone Ore",
+  "block.cryostone_caverns.deepslate_cryostone_ore": "Deepslate Cryostone Ore",
+  "block.cryostone_caverns.end_cryostone_ore": "End Cryostone Ore",
+
+  "item.cryostone_caverns.cryo_staff": "Cryo Staff",
+
   "creativetab.cryostone_caverns": "Cryostone Caverns"
 }

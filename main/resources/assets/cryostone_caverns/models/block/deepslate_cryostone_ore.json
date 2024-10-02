@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "cryostone_caverns:block/deepslate_cryostone_ore"
+  }
+}
