@@ -24,7 +24,17 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.CRYOSTONE_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_CRYOSTONE_ORE.get());
                         pOutput.accept(ModBlocks.END_CRYOSTONE_ORE.get());
-                        pOutput.accept(ModItems.CRYO_STAFF.get());
+                        pOutput.accept(ModItems.BLUEBERRY.get());
+                        pOutput.accept(ModItems.CRYOBERRY.get());
+                        pOutput.accept(ModItems.CRYOSTONE_SWORD.get());
+                        pOutput.accept(ModItems.CRYOSTONE_AXE.get());
+                        pOutput.accept(ModItems.CRYOSTONE_PICKAXE.get());
+                        pOutput.accept(ModItems.CRYOSTONE_SHOVEL.get());
+                        pOutput.accept(ModItems.CRYOSTONE_HOE.get());
+                        pOutput.accept(ModItems.CRYOSTONE_HELMET.get());
+                        pOutput.accept(ModItems.CRYOSTONE_CHESTPLATE.get());
+                        pOutput.accept(ModItems.CRYOSTONE_LEGGINGS.get());
+                        pOutput.accept(ModItems.CRYOSTONE_BOOTS.get());
                     })
                     .build());
 

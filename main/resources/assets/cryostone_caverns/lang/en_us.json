@@ -1,6 +1,9 @@
 {
   "item.cryostone_caverns.cryostone": "Cryostone",
   "item.cryostone_caverns.unrefined_cryostone": "Unrefined Cryostone",
+  "item.cryostone_caverns.cryoberry": "Cryoberry",
+  "item.cryostone_caverns.blueberry": "Blueberry",
+  "item.cryostone_caverns.tar_blob": "Tar Blob",
 
   "block.cryostone_caverns.cryostone_block": "Cryostone Block",
 
@@ -9,6 +12,17 @@
   "block.cryostone_caverns.end_cryostone_ore": "End Cryostone Ore",
 
   "item.cryostone_caverns.cryo_staff": "Cryo Staff",
+
+  "item.cryostone_caverns.cryostone_sword": "Cryostone Sword",
+  "item.cryostone_caverns.cryostone_pickaxe": "Cryostone Pickaxe",
+  "item.cryostone_caverns.cryostone_axe": "Cryostone Axe",
+  "item.cryostone_caverns.cryostone_shovel": "Cryostone Shovel",
+  "item.cryostone_caverns.cryostone_hoe": "Cryostone Hoe",
+
+  "item.cryostone_caverns.cryostone_helmet": "Cryostone Helmet",
+  "item.cryostone_caverns.cryostone_chestplate": "Cryostone Chestplate",
+  "item.cryostone_caverns.cryostone_leggings": "Cryostone Leggings",
+  "item.cryostone_caverns.cryostone_boots": "Cryostone Boots",
 
   "creativetab.cryostone_caverns": "Cryostone Caverns"
 }

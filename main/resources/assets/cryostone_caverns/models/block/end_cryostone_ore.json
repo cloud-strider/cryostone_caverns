@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "cryostone_caverns:block/end_cryostone_ore"
-  }
-}
